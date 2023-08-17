@@ -1,0 +1,1 @@
+To implement this strategy to handle the missing values, we have to drop the complete column which contains missing values, so for a given dataset we drop the Feature-1 completely and we use only left features to predict our target variable.

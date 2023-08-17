@@ -1,0 +1,1 @@
+To implement this strategy, we drop the Feature-1 column and then use Feature-2 and Feature-3 as our features for the new classifier and then finally after cluster formation, try to observe in which cluster the missing record is falling in and we are ready with our final dataset for further analysis.

@@ -1,0 +1,1 @@
+If there are an exceptionally larger set of missing values, try excluding the variable itself for further modeling, but you need to make sure that it is not much significant for predicting the target variable i.e, Correlation between dropped variable and target variable is very low or redundant.

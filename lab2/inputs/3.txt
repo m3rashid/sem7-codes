@@ -1,0 +1,1 @@
+In this approach, we use unsupervised techniques like K-Means, Hierarchical clustering, etc. The idea is that you can skip those columns which are having missing values and consider all other columns except the target column and try to create as many clusters as no of independent features(after drop missing value columns), finally find the category in which the missing row falls.
