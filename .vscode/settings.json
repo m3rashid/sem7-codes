@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["fillna", "iloc", "iterrows", "linalg"]
+  "cSpell.words": [
+    "apriori",
+    "colnames",
+    "fillna",
+    "iloc",
+    "iterrows",
+    "linalg",
+    "mlxtend"
+  ]
 }
